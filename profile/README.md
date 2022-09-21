@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.mirrorworld.fun">
-    <img src="./logo.png" alt="Mirror World" width="100" />
+    <img src="../logo.png" alt="Mirror World" width="100" />
   </a>
 </p>
 
