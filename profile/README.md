@@ -15,3 +15,8 @@
 - ✅ Zero-Code Launch Your NFT
 
 Learn more about Mirror World's features on our [official website](https://mirrorworld.fun/developer). Get Started by reading our 📖 detailed [documentation guides](https://docs.mirrorworld.fun). Start buidling right away on your [developer portal](https://app.mirrorworld.fun).
+
+## Community
+- **Discord** 👉 [Join the Discord community](https://mirrorworld.fun/discord)
+- **Telegram** 👉 [Join the Telegram community](https://mirrorworld.fun/telegram)
+- **Twitter** 👉 [Follow us on Twitter](https://mirrorworld.fun/twitter)
