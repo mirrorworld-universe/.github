@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.mirrorworld.fun">
-    <img src="https://github.com/mirrorworld-universe/.github/blob/main/profile/logo.png?raw=true" alt="Mirror World" width="100" />
+    <img src="https://github.com/mirrorworld-universe/.github/blob/main/profile/sonic-logo-transparent.png?raw=true" alt="Mirror World" width="100" />
   </a>
 </p>
 
