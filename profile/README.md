@@ -4,12 +4,9 @@
   </a>
 </p>
 
-<p align="center">Mirror World Smart SDK is a set of cross-platform tools for developers with no blockchain development experience, designed to help developers integrate blockchain more efficiently, easily and cost-effectively.
+<h1 align="center">Sonic Ecosystem Development Hub</h1>
+<p align="center">Welcome to the Sonic Ecosystem Development Hub, the central organization for all projects related to Sonic and HyperGrid. Our mission is to revolutionize decentralized gaming by leveraging the power of Solana's Virtual Machine (SVM) and the scalability of HyperGrid.
 </p>
-
-# Sonic Ecosystem Development Hub
-
-Welcome to the Sonic Ecosystem Development Hub, the central organization for all projects related to Sonic and HyperGrid. Our mission is to revolutionize decentralized gaming by leveraging the power of Solana's Virtual Machine (SVM) and the scalability of HyperGrid.
 
 ## About Sonic
 
